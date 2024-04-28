@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+import nltk
 from nltk.sentiment import SentimentIntensityAnalyzer
 from tqdm.notebook import tqdm
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
