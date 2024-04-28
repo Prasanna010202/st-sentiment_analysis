@@ -6,4 +6,4 @@ transformers
 nltk
 scipy
 altair
-sklearn
+scikit-learn
